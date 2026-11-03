@@ -1,9 +1,9 @@
-db-dtypes
-google-auth
-google-cloud-bigquery
-igmapper
-ipykernel
-pandas-gbq
-pandas
-selenium
-tmdbsimple
+db-dtypes             # Tipos de dados extras usados pelo BigQuery no pandas (DATE, TIME, STRUCT etc.)
+google-auth           # Autenticação e credenciais para acessar APIs e serviços Google
+google-cloud-bigquery # Cliente oficial Python para consultar e manipular dados no BigQuery
+igmapper              # Biblioteca para mapeamento/geolocalização e visualização de dados geográficos
+ipykernel             # Kernel do Python para execução em notebooks Jupyter
+pandas-gbq            # Integração entre pandas e BigQuery para ler/escrever tabelas facilmente
+pandas                # Manipulação e análise de dados em DataFrames
+selenium              # Automação de navegador para scraping e testes web
+tmdbsimple            # Cliente Python simples para consumir a API do The Movie Database (TMDB)
